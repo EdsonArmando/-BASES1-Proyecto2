@@ -1,4 +1,10 @@
+use Proyecto2Bases;
+/*
+-------------Global------------
+use Proyecto2Bases;
+-------------Local------------
 use Proyecto2BasesLocal;
+*/
 /*
 Consulta 1
 Desplegar cada profesional, y el número de inventos que tiene asignados
