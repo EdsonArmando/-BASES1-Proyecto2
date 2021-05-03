@@ -1,5 +1,5 @@
 use Proyecto2Bases;
-/*
+/* select * from pais;
 -------------Global------------
 use Proyecto2Bases;
 -------------Local------------
